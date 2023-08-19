@@ -1,3 +1,6 @@
+# ===========================================================================
+# Importaciones de clases y librerias necesarias
+# ===========================================================================
 # region Importando librerias o clases necesarias
 from configparser import ConfigParser
 # endregion Importando librerias o clases necesarias
@@ -7,7 +10,6 @@ class Configurations:
     def __init__(self):
         self.__config = ConfigParser()
         self.__file = "config.ini"
-
 
     # region Metodos
     # Obtiene una ruta del archivo config concatenado con el path del proyecto

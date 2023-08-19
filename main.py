@@ -13,9 +13,7 @@ from content.YoutubeBot import YoutubeBot
 # region - Instancia de clases de archivos importado
 logger = Log()
 consola = Impresor()
-
 # endregion - Instancia de clases de archivos importado
-
 
 # region Body Metodo principal main
 def main():

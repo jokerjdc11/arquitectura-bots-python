@@ -1,7 +1,6 @@
 # ===========================================================================
 # Importaciones de clases y librerias necesarias
 # ===========================================================================
-
 # Region - Importaciones de librerias y archivos
 from datetime import datetime, date, time, timedelta
 from os import makedirs, path, getcwd
@@ -12,7 +11,6 @@ from controller.utils.Configurations import Configurations
 # ===========================================================================
 # VARIABLES GLOBALES - LOCAL - INSTANCIA DE OBJETOS
 # ===========================================================================
-
 # Region
 # Obtención de la ruta actual del proyecto
 relativePath = getcwd()
