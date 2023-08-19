@@ -128,3 +128,18 @@ def funcionDePrueba(self, variableUno: str, variableDos: bool, variableTres: tup
 * En algunas ocasiones tendremos problemas para ejecutar comandos en el terminal de visual estudio para ello tenemos la siguiente solucion:
 
 >Si abrimos el Windows PowerShell como administrador y ejecutamos el comando «Get-ExecutionPolicy» nos tendría que devolver «Restricted» o lo que es lo mismo «Restringido». Para cambiar esta configuración basta con ejecutar «Set-ExecutionPolicy Unrestricted» y indicar Si[S].
+
+
+### Arquitectura de Bots en python con POO y selenium
+> Esta arquitectura esta orientada para las personas que apenas estan aprendiendo o quizas quieren fortalecer los conocimientos previos.
+
+* Clases y atributos
+* Metodos, getters and setters
+* Helpers
+* Controladores
+* Uso de archivos de configuracion
+* Configuracion de entornos virtuales (.env)
+* Creacion de bot
+* Programacion de ejecutable y tarea programadas para bots
+* Administracion de librerias
+
